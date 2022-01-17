@@ -1,9 +1,5 @@
 # Vagrant
 .vagrant
-Pipfile
-Pipfile.lock
-./beyond_tutorial
-db.sqlite3
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
