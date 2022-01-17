@@ -5,4 +5,4 @@ This tutorial includes instructions about how to use the following tools:
 * [GitHub](https://github.com/)
 * [Vagrant](https://www.vagrantup.com/)
 * [PipEnv](https://github.com/pypa/pipenv)
-* [Django](https://www.djangoproject.com/)
+* [Django](https://www.djangoproject.com/) 
