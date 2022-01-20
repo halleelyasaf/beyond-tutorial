@@ -2,6 +2,7 @@
 .vagrant
 db.sqlite3
 nohup.out 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
